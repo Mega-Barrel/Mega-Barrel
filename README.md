@@ -3,6 +3,5 @@
 - 🎓 I'm doing my Bachelor degree in Information Technology
 - 🔭 I’m currently working on Personal Portfolio Website
 - 🌱 I’m currently learning CSS and JAVASCRIPT
-- 📫 How to reach me: ...
 - ⚡ Fun fact: I like Music and playing CSGO.
 
