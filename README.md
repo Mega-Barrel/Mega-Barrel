@@ -5,7 +5,8 @@
 - 👨🏻‍💻 Codeing My Portfolio website.
 - ⚡ Fun fact: I like Music and playing CSGO.
 
-# Connect with Me:
+**Connect with Me:**
+
 [LinkedIn](https://www.linkedin.com/in/saurabh-joshi-3640441b5)
 [Twitter](https://twitter.com/Saurabh___Joshi)
 [Kaggle](https://www.kaggle.com/saurabhjoshi24)
