@@ -1,7 +1,7 @@
 ### Hi there 👋  I am Saurabh Joshi, an engineering student and an aspiring data analyst. I love playing outdoor games🏸, I'm a music🎶 lover as well as an gamer🎮.
 
 - 🎓 I'm doing my Bachelor degree in Information Technology
-- 🔭 I’m currently learning DS/ML from udemy, coursera, kaggle
+- 🔭 I’m currently learning Data Analytic From Udemy, Coursera
 - 👨🏻‍💻 Codeing My Portfolio website.
 - ⚡ Fun fact: I like Music and playing CSGO.
 
