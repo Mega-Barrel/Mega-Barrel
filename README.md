@@ -2,8 +2,8 @@
 
 - 🎓 I'm doing my Bachelor's degree in Information Technology.
 - 🔭 I’m currently learning Data Analytics From Udemy and Coursera.
-- 👨🏻‍💻 Creating My Portfolio website.
-- ⚡ Fun fact: I listen to music a lot and play CSGO 🎮.
+- 👨🏻‍💻 Winner of 3 Hackathons 🏆
+- ⚡ Fun fact: I listen to music a lot, Play Badminton🏸 and play CSGO 🎮.
 
 **Connect with Me:**
 
