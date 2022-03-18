@@ -2,7 +2,7 @@
 
 - 🎓 I'm doing my Bachelor's degree in Information Technology.
 - 🔭 I’m currently learning Data Analytics From Udemy and Coursera.
-- 👨🏻‍💻 Winner of 3 Hackathons 🏆
+- 👨🏻‍💻 Winner of 4 Hackathons 🏆
 - ⚡ Fun fact: I listen to music a lot, Play Badminton🏸 and play CSGO 🎮.
 
 **Connect with Me:**
