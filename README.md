@@ -16,11 +16,3 @@
 </p>
 
 ---
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-[![twitter](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png)][2]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
----
-
-[1]: http://www.github.com/Mega-Barrel
-[2]: https://www.twitter.com/Saurabh___Joshi
-[3]: https://www.linkedin.com/in/saurabhJoshi2403
