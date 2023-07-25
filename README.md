@@ -26,4 +26,6 @@ I'm a Freelance Data Analyst / Engineer, and working as an Associate Project Man
 
 ⚒️ [Hackathon Projects](https://devpost.com/saurabhjoshi7869)
 
+📖 [Medium](https://medium.com/@saurabhjoshi7869)
+
 🤩 [Portfolio Comming Soon]
