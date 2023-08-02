@@ -6,7 +6,7 @@ I'm a Freelance Data Analyst / Engineer, and working as an Associate Project Man
 
 🎯 I have won 4 Data Hackathons, in a row 🎉
 
-👩‍💻 I'm currently working on an ETL project which involves Notion API, connected with SQLite DB and a Streamlit dashboard.
+👩‍💻 I'm currently working on Portfolio Website.
 
 🧠 I'm currently learning Modern Data Stack (DBT, SnowFlake, Airflow)
 
