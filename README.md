@@ -6,8 +6,6 @@ I'm a Freelance Data Analyst / Engineer, and working as an Associate Project Man
 
 🎯 I have won 4 Data Hackathons, in a row 🎉
 
-👩‍💻 I'm currently working on Portfolio Website.
-
 🧠 I'm currently learning Modern Data Stack (DBT, SnowFlake, Airflow)
 
 👯‍♀️ I'm looking to collaborate on Data Engineering projects
@@ -28,4 +26,4 @@ I'm a Freelance Data Analyst / Engineer, and working as an Associate Project Man
 
 📖 [Medium](https://medium.com/@saurabhjoshi7869)
 
-🤩 [Portfolio: In Progress](https://mega-barrel.github.io/)
+🤩 [Portfolio Website](https://mega-barrel.github.io/)
