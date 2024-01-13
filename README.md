@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-I'm a Freelance Data Analyst / Engineer, and working as an Associate Project Management at [Media.net](https://www.media.net/). I have worked with tools/frameworks such as Python, Flask, PostgreSQL, Streamlit, Plotly Dash, Google Cloud Platform, Big Query, Spark, Airflow, RESTful APIs, Tableau, Postman, Data Modelling, Schema design, Figma, Data Warehouse, A/B testing, Website Traffic analysis, and Product Analysis. 
+I'm a Freelance Data Analyst / Engineer, and working as an Data Analyst at [Media.net](https://www.media.net/). I have worked with tools/frameworks such as Python, Flask, PostgreSQL, Streamlit, Plotly Dash, Google Cloud Platform, Big Query, Spark, Airflow, RESTful APIs, Tableau, Postman, Data Modelling, Schema design, Figma, Data Warehouse, A/B testing, Website Traffic analysis, and Product Analysis. 
 
 ## Things I am doing parallelly with my work
 
