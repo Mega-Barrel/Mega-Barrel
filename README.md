@@ -1,29 +1,36 @@
-## 🚀 About Me
+## 🚀 Hello
 
-I'm a Freelance Analytics Engineer, and I am working as a Data Analyst at [Media.net](https://www.media.net/). I have worked with tools/frameworks such as Python, Flask, PostgreSQL, Streamlit, Plotly Dash, Google Cloud Platform, Big Query, Spark, Airflow, RESTful APIs, Tableau, Postman, Data Modelling, Schema design, Figma, Data Warehouse, A/B testing, Website Traffic analysis, and Product Analysis. 
+I'm Saurabh. I am an analytics engineer freelancer currently working as a
+product analyst at a gaming company. I have <b>2.8+</b> years of experience in data
+transformation, modeling, and analytics in high-growth tech environments.
 
-## Things I am doing parallelly with my work
+Beyond my daily work, I've participated in 6 data hackathons and <b>won 4</b> in a row, including an internship at Georgia Tech where I built an <u>"Internal Search Prospect Database"</u> for their Sports Team.</p>
 
-🎯 I have won 4 Data Hackathons, in a row 🎉
+I enjoy traveling, cycling, playing video games 🎮
 
-🧠 I'm currently learning Modern Data Stack (DBT, SnowFlake, Airflow)
+### My latest blogs
+- [Extracting Yahoo Finance Stock Data: Building a Simple ETL Script](https://medium.com/plumbersofdatascience/extracting-yahoo-finance-stock-data-building-a-simple-etl-script-82bf645cff3c)
+- [Everything about “Slowly Changing Dimensions” or SCD’s](https://levelup.gitconnected.com/everything-about-slowly-changing-dimensions-or-scds-94452a13d3ae)
+- [Running dbt transformations on local Postgres database](https://levelup.gitconnected.com/running-dbt-transformations-on-local-postgres-database-af05c8a3acea)
 
-👯‍♀️ I'm looking to collaborate on Data Engineering projects
+### Streamlit apps
+- [SQL Question Tracker](https://sql-question-dashboard.streamlit.app/): Dashboard to keep track of SQL Questions solved from various online platforms.
+- [SQL Question Tracker](https://sql-question-dashboard.streamlit.app/): Dashboard to keep track of SQL Questions solved from various online platforms.
+- [SQL Question Tracker](https://sql-question-dashboard.streamlit.app/): Dashboard to keep track of SQL Questions solved from various online platforms.
 
-💬 Ask me about **Data** related topics, happy to assist you 🙂
+### Connect with me 
 
-⚡️ Fun fact: I like to play CSGO and FIFA games a lot 🎮
+Connect with me on [LinkedIn](https://www.linkedin.com/in/saurabhJoshi2403) or drop me an [Email](mailto:saurabhjoshi7869@gmail.com).
 
-**Connect with Me:**
+[![alt text][1.1]][1] 
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
 
-🚀 [LinkedIn](https://www.linkedin.com/in/saurabhJoshi2403)
+[1.1]: 
+[1]: https://medium.com/@saurabhjoshi7869
 
-📘 [Twitter](https://twitter.com/Saurabh___Joshi)
+[2.1]: 
+[2]: https://www.linkedin.com/in/saurabhJoshi2403
 
-👨🏻‍💻 [Freelance Profile](https://www.fiverr.com/saurabh__joshi)
-
-⚒️ [Hackathon Projects](https://devpost.com/saurabhjoshi7869)
-
-📖 [Medium](https://medium.com/@saurabhjoshi7869)
-
-🤩 [Portfolio Website](https://mega-barrel.github.io/)
+[3.1]: 
+[3]: https://mega-barrel.github.io
