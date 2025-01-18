@@ -1,8 +1,8 @@
-## 🚀 Hello
+Hello 🚀
 
 I'm Saurabh. I am an analytics engineer freelancer currently working as a
 product analyst at a gaming company. I have <b>2.8+</b> years of experience in data
-transformation, modeling, and analytics in high-growth tech environments.
+transformation, data modeling, and analytics in high-growth tech environments.
 
 Beyond my daily work, I've participated in 6 data hackathons and <b>won 4</b> in a row, including an internship at Georgia Tech where I built an <u>"Internal Search Prospect Database"</u> for their Sports Team.</p>
 
@@ -15,22 +15,17 @@ I enjoy traveling, cycling, playing video games 🎮
 
 ### Streamlit apps
 - [SQL Question Tracker](https://sql-question-dashboard.streamlit.app/): Dashboard to keep track of SQL Questions solved from various online platforms.
-- [SQL Question Tracker](https://sql-question-dashboard.streamlit.app/): Dashboard to keep track of SQL Questions solved from various online platforms.
-- [SQL Question Tracker](https://sql-question-dashboard.streamlit.app/): Dashboard to keep track of SQL Questions solved from various online platforms.
+- [Indian Stocks Dashboard](https://app-stock-portfolio.streamlit.app): Dashboard to keep track of stocks listed on NSE (India).
+- [Weather Tracker](https://weather-updates.streamlit.app): Dashboard to keep track of Current Weather and Next 3 day Weather Prediction.
 
 ### Connect with me 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/saurabhJoshi2403) or drop me an [Email](mailto:saurabhjoshi7869@gmail.com).
 
-[![alt text][1.1]][1] 
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
+[Medium][1] 
+[LinkedIn][2]
+[Github][3]
 
-[1.1]: 
 [1]: https://medium.com/@saurabhjoshi7869
-
-[2.1]: 
 [2]: https://www.linkedin.com/in/saurabhJoshi2403
-
-[3.1]: 
 [3]: https://mega-barrel.github.io
